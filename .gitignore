@@ -1,0 +1,6 @@
+# .gitignore
+*.pkl
+.idea/
+__pycache__/
+.venv/
+similarity.pkl
